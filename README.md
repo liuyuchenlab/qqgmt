@@ -24,4 +24,8 @@ library(qqgmt)
 qqgmt("2022minor_ZGA_genes.xlsx", "Minor ZGA genes(Chunxia,2022)", "NA")
 ```
 ###### 运行代码后可得到一个和输入文件名同名的gmt文件
+![image](https://github.com/user-attachments/assets/e2f981d4-1541-44de-a0ab-8ee768b524e7)
+###### 里面长这样
+![image](https://github.com/user-attachments/assets/c152fb29-aa13-43cb-870d-48e848bbe8cf)
+##### 快去试试吧！
 
