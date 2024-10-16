@@ -1,0 +1,13 @@
+Package: qqgmt
+Type: Package
+Title: qucikly make gmt file
+Version: 0.1.0
+Author: LIU Yu-chen
+Maintainer: The package maintainer <liuyuchenlab@foxmail.com>
+Description: DIY your GSEA gmt file!
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    openxlsx
+RoxygenNote: 7.3.2
